@@ -1,0 +1,5 @@
+name: Coop door
+entrypoint: servo_door_day.toit
+triggers:
+  on_install: true
+  on_interval: "30m"

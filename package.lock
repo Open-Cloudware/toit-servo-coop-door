@@ -1,0 +1,12 @@
+prefixes:
+  servo: servo
+  solar_position: toit-solar-position
+packages:
+  servo:
+    url: github.com/andersjohnsen/servo
+    version: 1.1.0
+    hash: 7eff254a70ee25b4b3651c33587b4661fd44768a
+  toit-solar-position:
+    url: github.com/toitware/toit-solar-position
+    version: 0.0.3
+    hash: 82c796ae33d0fc7448f0beb4e485485d093e4e29

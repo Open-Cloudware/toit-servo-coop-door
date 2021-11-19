@@ -1,0 +1,7 @@
+dependencies:
+  servo:
+    url: github.com/andersjohnsen/servo
+    version: ^1.1.0
+  solar_position:
+    url: github.com/toitware/toit-solar-position
+    version: ^0.0.3
